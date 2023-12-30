@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "devandris",
+  "repo": "container-o78yqlm",
+  "name": "devandris",
+  "email": "andris.devel@gmail.com",
+}
